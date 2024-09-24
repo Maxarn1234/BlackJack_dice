@@ -1,0 +1,14 @@
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\bin\Debug\net8.0\BlackJack_dice.exe
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\bin\Debug\net8.0\BlackJack_dice.deps.json
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\bin\Debug\net8.0\BlackJack_dice.runtimeconfig.json
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\bin\Debug\net8.0\BlackJack_dice.dll
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\bin\Debug\net8.0\BlackJack_dice.pdb
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\obj\Debug\net8.0\BlackJack_dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\obj\Debug\net8.0\BlackJack_dice.AssemblyInfoInputs.cache
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\obj\Debug\net8.0\BlackJack_dice.AssemblyInfo.cs
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\obj\Debug\net8.0\BlackJack_dice.csproj.CoreCompileInputs.cache
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\obj\Debug\net8.0\BlackJack_dice.dll
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\obj\Debug\net8.0\refint\BlackJack_dice.dll
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\obj\Debug\net8.0\BlackJack_dice.pdb
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\obj\Debug\net8.0\BlackJack_dice.genruntimeconfig.cache
+C:\Users\max.brannmo\source\repos\BlackJack_dice\BlackJack_dice\obj\Debug\net8.0\ref\BlackJack_dice.dll
